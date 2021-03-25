@@ -1,14 +1,12 @@
-### Hi there 👋
+👋 I’m a backend developer: C#/.Net/.Net Core/Entity Framework/Microsoft SQL Server
+🔭 I’m currently working on https://github.com/AVLuneva/WebApp
+🌱 I’m currently learning ASP.NET Core
+📫 How to reach me: @AVLuneva
 
 <!--
 **AVLuneva/AVLuneva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on https://github.com/AVLuneva/WebApp
-- 🌱 I’m currently learning ASP.NET Core
-- 📫 How to reach me: @AVLuneva
-<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
